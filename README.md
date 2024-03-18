@@ -1,6 +1,6 @@
 # Air-pollution-monitoring-system-using-IoT
 Designing an IoT-based air pollution monitoring system involves integrating sensors for various pollutants and creating a user-friendly interface for real-time data visualization, aiding in environmental awareness.
+![Air pollution monitoring system using IoT 1](https://github.com/MrManoj20/-Air-pollution-monitoring-system-using-IoT/assets/163822205/007018e0-e933-4fc5-91f1-a5200b1e87c4)
+![Air pollution monitoring system using IoT 2](https://github.com/MrManoj20/-Air-pollution-monitoring-system-using-IoT/assets/163822205/8f97928d-62b5-47ce-b446-6fd05bf65fdd)
+![Air pollution monitoring system using IoT 3](https://github.com/MrManoj20/-Air-pollution-monitoring-system-using-IoT/assets/163822205/6801fe8a-0845-4e09-996c-ed7b7980855f)
 
-(https://github.com/MrManoj20/-Air-pollution-monitoring-system-using-IoT/assets/163822205/3b7a4da5-d786-4185-8360-b5c6c4cf6edb)
-(https://github.com/MrManoj20/-Air-pollution-monitoring-system-using-IoT/assets/163822205/38c8fc31-578d-42dc-9db6-656f30647280)
-(https://github.com/MrManoj20/-Air-pollution-monitoring-system-using-IoT/assets/163822205/b44a9e59-67a7-46af-8e26-64a2929c8c5b)
